@@ -10,6 +10,11 @@ Therefore, students will learn to use Python and its modules to accomplish these
 
 # Packages, contents
 Data manipulation I: pandas DataFrames
+
 Data manipulation II: pandas (Homework 1 (Pandas data manipulation: Olympics))
-Data analysis I: univariate stats, visualization, seaborn, intro to correlation
-Data analysis II: ANOVA, t-test, linear models
+
+Data analysis I: univariate stats, visualization, seaborn, intro to correlation (Homework 2 (more data manipulation))
+
+Data analysis II: ANOVA, t-test, linear models (Homework 3 (Visualization and correlation))
+
+
