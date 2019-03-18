@@ -17,4 +17,13 @@ Data analysis I: univariate stats, visualization, seaborn, intro to correlation 
 
 Data analysis II: ANOVA, t-test, linear models (Homework 3 (Visualization and correlation))
 
+Categorical data (contingency tables, chi-square, mosaic plots)
+Text processing: Regular Expressions (Homework 4 (Linear models))
+
+Natural language processing (NLTK, gensim) (Project Proposal)
+
+Machine Learning I: Clustering (Homework 5 (NLP))
+
+Machine Learning II: Classification (Homework 6 (Clustering))
+
 
