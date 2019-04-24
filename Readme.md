@@ -1,4 +1,4 @@
-# SI 618 - Data Manipulation & Analysis
+Data Manipulation & Analysis
 
 ## Course Description:
 
