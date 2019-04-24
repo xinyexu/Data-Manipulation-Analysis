@@ -26,4 +26,32 @@ Machine Learning I: Clustering (Homework 5 (NLP))
 
 Machine Learning II: Classification (Homework 6 (Clustering))
 
+Machine Learning III: Dimensionality reduction (PCA and t-SNE)
+
+Spark I
+
+Spark II
+
+## HWs
+
+Homework 1 (Pandas data manipulation: Olympics)
+
+Homework 2 (more data manipulation)
+
+Homework 3 (Visualization and correlation)
+
+Homework 4 (Linear models) 
+
+Homework 5  (NLP)
+
+Homework 6  (Clustering)
+
+Homework 7  (Classification)
+
+Homework 8  (Dimension Reduction)
+
+Homework 9  (Spark)
+
+
+
 
